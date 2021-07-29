@@ -4,7 +4,7 @@
   "description": "JavaScript files upload",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "parcel index.html"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/az1k3/js-file-upload/issues"
   },
-  "homepage": "https://github.com/az1k3/js-file-upload#readme"
+  "homepage": "https://github.com/az1k3/js-file-upload#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
