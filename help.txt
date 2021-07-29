@@ -1,0 +1,6 @@
+1) npm init
+2) npm i -D parcel-bundler 
+3) Создали index.html , перед <body> подключили app.js
+4) Создали app.js , upload.js
+5) В package-json , scriprts > serve => "parcel index.html"
+6) 
