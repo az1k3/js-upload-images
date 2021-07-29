@@ -1,1 +1,2 @@
-JavaScript image upload
+# js-upload-images
+JavaScript, Parcel, CSS, HTML, Firebase
