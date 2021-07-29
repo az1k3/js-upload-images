@@ -1,0 +1,24 @@
+{
+  "name": "js-file-upload",
+  "version": "1.0.0",
+  "description": "JavaScript files upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/az1k3/js-file-upload.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "CSS",
+    "HTML"
+  ],
+  "author": "Azamat Konyspay <az1k3@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/az1k3/js-file-upload/issues"
+  },
+  "homepage": "https://github.com/az1k3/js-file-upload#readme"
+}
