@@ -1,4 +1,5 @@
 node_modules
 firebase.js
-.cache
-dist
+# Parcel related files
+dist/
+.cache/
