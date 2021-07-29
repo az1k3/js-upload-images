@@ -23,5 +23,8 @@
   "homepage": "https://github.com/az1k3/js-file-upload#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "firebase": "^8.8.0"
   }
 }
